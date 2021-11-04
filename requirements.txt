@@ -1,0 +1,11 @@
+#cat requirements.txt
+pyttsx3
+datetime
+SpeechRecognition
+smtplib
+pyautogui
+wikipedia
+pywhatkit
+clipboard
+pyjokes
+psutil
